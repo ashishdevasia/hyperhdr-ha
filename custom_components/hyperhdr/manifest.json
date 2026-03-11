@@ -7,7 +7,7 @@
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/Shaffer-Softworks/hyperhdr-ha/issues",
   "loggers": ["hyperhdr"],
-  "requirements": ["hyperhdr-py-sickkick==0.2.0"],
+  "requirements": ["git+https://github.com/ashishdevasia/hyperhdr-py.git@main#hyperhdr-py-sickkick==0.2.0"],
   "ssdp": [
     {
       "manufacturer": "HyperHDR Open Source Ambient Lighting",
